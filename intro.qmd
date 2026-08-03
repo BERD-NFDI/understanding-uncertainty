@@ -4,7 +4,7 @@ Welcome to the course "Understanding Uncertainty in Data-Driven Research: How Un
 
 BERD Academy is part of BERD\@NFDI; funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) -- 460037581
 
-If not indicated otherwise, the contents of this course are licensed under CC BY 4.0 NC
+If not indicated otherwise, the contents of this course are licensed under CC BY 4.0.
 
 ## Topics
 

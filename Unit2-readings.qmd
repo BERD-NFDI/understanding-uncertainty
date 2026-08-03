@@ -1,4 +1,6 @@
 ## U2 Readings {.unnumbered}
 
-Another web article provides a good introduction to web scraping:
-<https://www.geeksforgeeks.org/introduction-to-web-scraping/>
+We recommend reading the following papers on the topics covered:
+
+- [The “Problem” of Human Label Variation: On Ground Truth in Data, Modeling and Evaluation](https://aclanthology.org/2025.nlperspectives-1.7.pdf)
+- [Revisiting Active Learning under (Human) Label Variation](https://aclanthology.org/2025.nlperspectives-1.7.pdf)

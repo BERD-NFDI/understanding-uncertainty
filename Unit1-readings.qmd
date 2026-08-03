@@ -1,4 +1,6 @@
 ## U1 Readings {.unnumbered}
 
-Free web article providing detailed code examples of web scraping in Python. 
-Python, R. (n.d.). A Practical Introduction to Web Scraping in Python – Real Python. Retrieved 3 June 2024, from <https://realpython.com/python-web-scraping-practical-introduction/>
+We recommend reading the following blog posts on the topics covered:
+
+- [Understanding Model Calibration - A gentle introduction and visual exploration of calibration and the expected calibration error (ECE) | ICLR Blogposts 2025](https://iclr-blogposts.github.io/2025/blog/calibration/)
+- [What (and What Not) are Calibrated Probabilities Actually Useful for? | ICLR Blogposts 2026](https://iclr-blogposts.github.io/2026/blog/2026/useful-calibrated-uncertainties/)

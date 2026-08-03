@@ -1,3 +1,3 @@
 ## Unit 4 {.unnumbered}
 
-In this unit, you will follow along with a practical example of extracting structured data from a set of documents. In the interactive session, you may discuss obstacles you are facing with your own project.
+### Uncertainty When Using Large Language Models

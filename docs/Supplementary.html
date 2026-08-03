@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Supplementary – Understanding Uncertainty in Data-Driven Research: How Uncertainty Shapes Machine Learning</title>
+<title>Reflection Flowchart – Understanding Uncertainty in Data-Driven Research: How Uncertainty Shapes Machine Learning</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -99,7 +99,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./Unit3.html">Unit 3</a></li><li class="breadcrumb-item"><a href="./Supplementary.html">Supplementary</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./Unit3.html">Unit 3</a></li><li class="breadcrumb-item"><a href="./Supplementary.html">Reflection Flowchart</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
     </div>
@@ -184,6 +184,12 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="./Unit2-slides.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">U2 Slides</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="./Unit2-readings.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">U2 Readings</span></a>
   </div>
@@ -238,7 +244,7 @@ ul.task-list li input[type="checkbox"] {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./Supplementary.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text">Supplementary</span></a>
+ <span class="menu-text">Reflection Flowchart</span></a>
   </div>
 </li>
       </ul>
@@ -260,14 +266,14 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./Unit4-readings.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">U4 Readings</span></a>
+  <a href="./Unit4-slides.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">U4 Slides</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./Unit4-assignment.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">U4 Assignment</span></a>
+  <a href="./Unit4-readings.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">U4 Readings</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -289,9 +295,9 @@ ul.task-list li input[type="checkbox"] {
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./Unit3.html">Unit 3</a></li><li class="breadcrumb-item"><a href="./Supplementary.html">Supplementary</a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./Unit3.html">Unit 3</a></li><li class="breadcrumb-item"><a href="./Supplementary.html">Reflection Flowchart</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">Supplementary</h1>
+<h1 class="title">Reflection Flowchart</h1>
 </div>
 
 
@@ -308,21 +314,7 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Many students have expressed particular interest in extracting tables from PDFs. For this, I will present here some tools for the specific use case. If your PDF is actually a set of images (as we discuss in this Unit), you might try ‘Nougat’ by Meta.</p>
-<p>If interested, you can also view the following Colab notebook and video demonstration.</p>
-<ul>
-<li>Video Demonstration of Nougat</li>
-</ul>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SYO_4uhdHKM?si=d1N_QxzwFyxBRV1O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="">
-</iframe>
-<ul>
-<li><a href="https://colab.research.google.com/drive/1oC7jK8UMEYRDAEPevn5VQweadjN4WyeW?usp=sharing#scrollTo=ortVi_5g3ADU">Example Notebook for Nougat</a></li>
-</ul>
-<p>If your PDFs have the PostScript content intact, you might consider the relatively simpler <a href="https://camelot-py.readthedocs.io/en/master/">Camelot package</a>.</p>
-<p>In July 2025, Google openly published its tool for extracting data from text, called langExtract. Students in the course may think of this as an alternative to using other LLMs, which are intended for general use cases, such that LangExtract is more specifically designed for our needs. Students may consider revising the assignment example code to use LangExtract instead of OpenAI to see how this model works for their project.</p>
-<ul>
-<li><a href="https://colab.research.google.com/drive/1Ie_UBX2U30ix5u_-tdxeA1cVuDWeFoHB?usp=sharing">Example Notebook for LangExtract</a></li>
-</ul>
+<p>Please go through <a href="slides/uncertainty_decision_flowcharts.pdf">this self-reflection flowchart</a>, considering your machine learning or LLM application. Questions will be discussed in our final Q&amp;A session.</p>
 
 
 

@@ -1,5 +1,25 @@
 ## U2 Videos {.unnumbered}
 
-### Unit 2: Code Demonstration
+### Unit 2-1: What is a label?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sBGKb5bAKG4?si=glrlgzPckcZ3deRw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Unit 2-2: Agreement Metrics & Majority Vote
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sBGKb5bAKG4?si=glrlgzPckcZ3deRw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Unit 2-3: Human Label Variation
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sBGKb5bAKG4?si=glrlgzPckcZ3deRw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Unit 2-4: Active Learning
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sBGKb5bAKG4?si=glrlgzPckcZ3deRw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Unit 2-5: Active Learning for Human Label Variation
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sBGKb5bAKG4?si=glrlgzPckcZ3deRw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Unit 2-6: Natural Language Inference & Homework Task
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sBGKb5bAKG4?si=glrlgzPckcZ3deRw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

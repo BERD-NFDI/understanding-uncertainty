@@ -1,13 +1,7 @@
 ## U3 Readings {.unnumbered}
 
--   Comparison of several OCR tools. OCR in 2024: Benchmarking Text Extraction/Capture Accuracy. (n.d.). AIMultiple: High Tech Use Cases & Tools to Grow Your Business. Retrieved 3 June 2024, from:
+We recommend reading the following paper and the following blog posts on the topics covered:
 
-    <https://research.aimultiple.com/ocr-accuracy/>
-
--   Introduction to 'Nougat' an OCR model especially for parsing tables and equations in academic papers:
-
-    <https://facebookresearch.github.io/nougat/>
-
--   Using an AI 'BERT' to classify open-ended text with some pre-training of BERT involved. Gweon, H., & Schonlau, M. (2024). Automated classification for open-ended questions with BERT. Journal of Survey Statistics and Methodology, 12(2), 493--504:
-
-    <https://doi.org/10.1093/jssam/smad015>
+- [Reexamining the Aleatoric and Epistemic Uncertainty Dichotomy | ICLR Blogposts 2025](https://iclr-blogposts.github.io/2025/blog/reexamining-the-aleatoric-and-epistemic-uncertainty-dichotomy/)
+- [Sources of Uncertainty in Supervised Machine Learning – A Statisticians' View](https://arxiv.org/pdf/2305.16703)
+- [Week #1: Getting Started With Conformal Prediction For Classification](https://mindfulmodeler.substack.com/p/week-1-getting-started-with-conformal)
