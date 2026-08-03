@@ -1,0 +1,15 @@
+With Cornelia Gruber
+
+Online, Starting Sept 1, 2026
+
+![](images/Logo_BERD_Academy(1).png)
+
+# Overview {.unnumbered}
+
+**How certain are the outputs of a machine learning model, and where does that uncertainty come from?**
+
+In this course, participants learn to trace uncertainty across the full data-driven research workflow: from data generation, measurement, and labeling to modeling, evaluation, decision-making, and the use of large language models. 
+
+The course introduces core concepts such as aleatoric and epistemic uncertainty, but also shows why these categories are only a starting point for understanding uncertainty in practice. Participants will explore why labels are not always unquestioned ground truth, how human disagreement can carry useful information, and how probabilistic predictions must be interpreted before they can support decisions. The course also reflects on uncertainty in large language models, including data bias, prompting, alignment, and overly agreeable outputs. 
+
+**By the end, participants will** be better equipped to **ask what a model output really means,** what it **might be hiding,** and what is needed to **make uncertainty visible and useful in their own research.**

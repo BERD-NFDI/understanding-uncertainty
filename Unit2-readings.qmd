@@ -1,0 +1,4 @@
+## U2 Readings {.unnumbered}
+
+Another web article provides a good introduction to web scraping:
+<https://www.geeksforgeeks.org/introduction-to-web-scraping/>

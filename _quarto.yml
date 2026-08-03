@@ -1,0 +1,61 @@
+project: 
+  type: book
+  output-dir: docs
+  
+book: 
+  title: "Understanding Uncertainty in Data-Driven Research: How Uncertainty Shapes Machine Learning"  
+  chapters: 
+  - part: index.qmd
+    chapters: 
+    - intro.qmd
+  - part: Unit1.qmd 
+    chapters: 
+    - Unit1-videos.qmd
+    - Unit1-slides.qmd
+    - Unit1-readings.qmd
+    - Unit1-meeting.qmd
+  - part: Unit2.qmd
+    chapters: 
+    - Unit2-videos.qmd
+    - Unit2-readings.qmd
+    - Unit2-assignment.qmd
+    - Unit2-meeting.qmd
+  - part: Unit3.qmd
+    chapters: 
+    - Unit3-videos.qmd
+    - Unit3-slides.qmd
+    - Unit3-readings.qmd
+    - Unit3-meeting.qmd
+    - Supplementary.qmd
+  - part: Unit4.qmd
+    chapters:
+    - Unit4-videos.qmd
+    - Unit4-readings.qmd
+    - Unit4-assignment.qmd
+    - Unit4-meeting.qmd  
+  
+  
+  navbar: 
+    background: white
+    logo: images/Logo_BERD_Academy(1).png
+#    logo: images/Logo_BERD_Academy.png
+    
+# we can add this 
+  page-footer:
+    center: 
+     
+     - text: "Impressum"
+       href: impressum.qmd
+
+# bibliography: references.bib
+
+format:
+  html:
+    theme: flatly
+    
+number-depth: 2
+
+highlight-style: breeze
+
+    
+

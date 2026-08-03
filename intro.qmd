@@ -1,0 +1,49 @@
+# Introduction {.unnumbered}
+
+Welcome to the course "Understanding Uncertainty in Data-Driven Research: How Uncertainty Shapes Machine Learning".
+
+BERD Academy is part of BERD\@NFDI; funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) -- 460037581
+
+If not indicated otherwise, the contents of this course are licensed under CC BY 4.0 NC
+
+## Topics
+
+- Understanding where uncertainty enters data-driven workflows, from data generation, measurement, and labeling to modeling, evaluation, and deployment.
+- Exploring aleatoric and epistemic uncertainty as useful concepts, while learning why reducible and irreducible uncertainty are not always easy to separate in practice.
+- Questioning ground truth assumptions by examining label uncertainty, human disagreement, and label distributions in supervised learning datasets.
+- Interpreting probabilistic predictions by connecting calibration, base rates, error costs, and thresholds to real decisions made with model outputs.
+- Reflecting on uncertainty when using large language models, including how data bias, prompting, alignment, human preference data, and sycophancy can shape fluent answers.
+
+## Format
+
+This is an **online** course.
+
+- **Week 1: From Probabilistic Predictions to Decisions.** Watch video lectures to learn how probabilistic predictions, calibration, error costs, base rates, and thresholds shape decisions, and why human-in-the-loop systems still require clear roles, accountability, and risk trade-offs (~60 min). Online Q&A Session (~60 min).
+- **Week 2: Questioning Ground Truth Labels.** Watch video lectures to learn why labels should not always be treated as unquestioned ground truth, distinguish label noise from meaningful human disagreement, and interpret label distributions, majority labels, and agreement rates in NLP and computer vision datasets (~60 min). Online Q&A Session (~60 min).
+- **Week 3: Sources of Uncertainty in Machine Learning.** Watch video lectures to learn about aleatoric and epistemic uncertainty, trace where uncertainty enters the supervised learning workflow, and understand why the boundary between reducible and irreducible uncertainty depends on what information or actions are available (~60 min). Online Q&A Session (~60 min).
+- **Week 4: Uncertainty When Using Large Language Models.** Watch video lectures to learn why fluent LLM outputs should not be treated as direct evidence or ground truth, and how data quality, bias, prompting, alignment, human preference data, and sycophancy shape uncertainty in research and everyday LLM use (~60 min). Online Q&A Session (~60 min).
+
+👨‍💻After Unit 2 and Unit 3, you are **tasked with practical assignments** to apply the course’s contents and reflect on the impact of uncertainty on your own research.
+
+## Weekly Meetings
+
+The course includes **4 live Online Meetings,** in which you will discuss the week's contents with the instructor and fellow participants:
+
+- Meeting 1: **September 01, 2026,** 4:30pm – 5:30pm CEST
+- Meeting 2: **September 08, 2026,** 4:30pm – 5:30pm CEST
+- Meeting 3: **September 22, 2026,** 4:30pm – 5:30pm CEST
+- Meeting 4: **September 29, 2026,** 4:30pm – 6:00pm CEST
+
+Please note that the final session is scheduled to take 30 minutes longer.
+
+## Prerequisites
+
+The target group is researchers in business, economics, social sciences, and related empirical fields who work with or plan to work with data-driven methods, supervised machine learning, unstructured data, labels, predictions, or large language models.
+
+Participants should have **encountered or applied basic machine learning.** No advanced mathematics, advanced machine learning, or substantial programming experience is required. The course is designed for participants who want to build practical judgment about how uncertainty shapes data-driven research.
+
+A Zoom account is required to join the online meetings and a Google account for the using Google colab for completing the assignments. The course is taught entirely in English, so proficiency in both written and spoken English is necessary.
+
+## About the Instructor
+
+**Cornelia Gruber** is a researcher at the Department of Statistics at LMU Munich. Her research focuses on uncertainty in machine learning, with an emphasis on statistical approaches that treat uncertainty not only as a limitation, but also as a source of information about the processes under study. She applies these ideas to human-annotated data in natural language processing and to climate model simulations, where statistical modeling can help distinguish natural climate variability from climate change signals. In this course, she draws on this research perspective to help participants critically assess uncertainty in empirical analysis and machine learning applications.

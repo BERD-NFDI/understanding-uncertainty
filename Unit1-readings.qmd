@@ -1,0 +1,4 @@
+## U1 Readings {.unnumbered}
+
+Free web article providing detailed code examples of web scraping in Python. 
+Python, R. (n.d.). A Practical Introduction to Web Scraping in Python – Real Python. Retrieved 3 June 2024, from <https://realpython.com/python-web-scraping-practical-introduction/>

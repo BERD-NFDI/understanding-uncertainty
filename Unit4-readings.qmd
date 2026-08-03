@@ -1,0 +1,9 @@
+## U4 Readings {.unnumbered}
+
+-   Comparison of several industry solutions for extracting data from open text. Top AI Apps & Tools for Document data extraction. (n.d.). Deepgram. Retrieved 3 June 2024, from:
+
+    <https://deepgram.com/ai-apps>
+
+-   Comparing LLMs to dedicated Named Entity Extraction Deep Learners. How effective are large language models in named entity extraction compared to traditional machine learning algorithms? \| 10 Answers from Research papers. (n.d.). SciSpace - Question. Retrieved 3 June 2024, from:
+
+    <https://typeset.io/questions/how-effective-are-large-language-models-in-named-entity-p29rfup468>
