@@ -2,24 +2,24 @@
 
 ### Unit 1-1: About the course
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3emZUvgJJdY?si=8skF78c_A2cRY0dY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zUWrHt8U7Qw?si=_zlJQp88T-J7IBOG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Unit 1-2: What is uncertainty?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6B7noM3bzzw?si=eVSGJJWbtnaAg9Uj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e5a3ZdKhS14?si=NUKkMuvC5ug50gn2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Unit 1-3: Calibration
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3D4Fxx74SHU?si=xewrYcnAaD8vsCFk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fw2Grs4WOlg?si=4Egptzho93Wv0KLV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Unit 1-4: Entropy
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/inuPyPlc6fs?si=enu_JaLjW-Y0hBGd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ci58ysH8YdU?si=mYh70INXAZPqJKlh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Unit 1-5: Conformal Prediction
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QNr5xDoG2NE?si=6NVgzwBOeW4zrI3l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9oi_OtbnT2s?si=dEwopSN_HYEsc4vn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Unit 1-6: Error costs and meaningful human oversight
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QNr5xDoG2NE?si=6NVgzwBOeW4zrI3l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WgXcl8Br8nY?si=-r-KL8qWZx5LgGff" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

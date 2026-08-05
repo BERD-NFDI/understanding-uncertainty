@@ -1,3 +1,5 @@
 ## U2 Assignment {.unnumbered}
 
 Please find the assignment for Unit 2 [here](https://colab.research.google.com/drive/1ntOmfywzLCG06XbPHcBTKxQHusIIm73j?usp=sharing).
+
+Deadline: Sep 15, 2026, AoE.

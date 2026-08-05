@@ -2,24 +2,24 @@
 
 ### Unit 4-1: How Large Language Models Work
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/plI-ox9aPQs?si=Hsv2vgL84lhVNMyo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJmN6cdr0Nw?si=qM--7FcKCpuYD2k_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Unit 4-2: Uncertainty Quantification in LLMs
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/plI-ox9aPQs?si=Hsv2vgL84lhVNMyo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lu9TwJAflU8?si=o_QyRlVj54bLID8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Unit 4-3: Truthfulness and Retrieval
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/plI-ox9aPQs?si=Hsv2vgL84lhVNMyo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o1uPQWJUvbY?si=K69pZO4b5qChSirp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Unit 4-4: Hallucinations and Abstention
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/plI-ox9aPQs?si=Hsv2vgL84lhVNMyo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AFyeGQCYn9o?si=v9cc-eUpSy66dE4r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Unit 4-5: (Unintended) Alignment
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/plI-ox9aPQs?si=Hsv2vgL84lhVNMyo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ke3VaC9n28s?si=GqcGcgQJNdG0ojS7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Unit 4-6: Prompting
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/plI-ox9aPQs?si=Hsv2vgL84lhVNMyo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CMxCVLiIIkI?si=uvvUyiQ8qhN3RG3W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -2,24 +2,24 @@
 
 ### Unit 2-1: What is a label?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sBGKb5bAKG4?si=glrlgzPckcZ3deRw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHhuzWRfQBw?si=zP7LnXzAp9MsFXER" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Unit 2-2: Agreement Metrics & Majority Vote
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sBGKb5bAKG4?si=glrlgzPckcZ3deRw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c5GZG7Y5KpY?si=xp98v5Ekw3RO-quQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Unit 2-3: Human Label Variation
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sBGKb5bAKG4?si=glrlgzPckcZ3deRw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sY2JRXL-Rog?si=fqDJLWzFUrKY04nV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Unit 2-4: Active Learning
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sBGKb5bAKG4?si=glrlgzPckcZ3deRw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u1GT9fDlvfo?si=gtRK1D6I0XSkipf_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Unit 2-5: Active Learning for Human Label Variation
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sBGKb5bAKG4?si=glrlgzPckcZ3deRw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Aute0pzyM0?si=gunt5kscr3qM6P-6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Unit 2-6: Natural Language Inference & Homework Task
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sBGKb5bAKG4?si=glrlgzPckcZ3deRw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Gx270QBcyA?si=VfccS4QhhyaLANB4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
