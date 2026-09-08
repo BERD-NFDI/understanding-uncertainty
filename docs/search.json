@@ -166,7 +166,7 @@
     "href": "Unit2-readings.html",
     "title": "U2 Readings",
     "section": "",
-    "text": "We recommend reading the following papers on the topics covered:\n\nThe “Problem” of Human Label Variation: On Ground Truth in Data, Modeling and Evaluation\nRevisiting Active Learning under (Human) Label Variation",
+    "text": "We recommend reading the following papers on the topics covered:\n\nThe “Problem” of Human Label Variation: On Ground Truth in Data, Modeling and Evaluation\nRevisiting Active Learning under (Human) Label Variation\n\nFurther readings on Calibration:\n\nCalibration Techniques and it’s Importance in Machine Learning\nProbability calibration",
     "crumbs": [
       "Unit 2",
       "U2 Readings"
@@ -238,17 +238,6 @@
     ]
   },
   {
-    "objectID": "Unit3-meeting.html",
-    "href": "Unit3-meeting.html",
-    "title": "U3 Meeting",
-    "section": "",
-    "text": "Meeting 3: Sept 22, 2026, 4:30pm – 5:30pm CEST\nPlease find the information on how to join the zoom meeting in the corresponding e-mail.",
-    "crumbs": [
-      "Unit 3",
-      "U3 Meeting"
-    ]
-  },
-  {
     "objectID": "Supplementary.html",
     "href": "Supplementary.html",
     "title": "U3 Assignment",
@@ -257,6 +246,17 @@
     "crumbs": [
       "Unit 3",
       "U3 Assignment"
+    ]
+  },
+  {
+    "objectID": "Unit3-meeting.html",
+    "href": "Unit3-meeting.html",
+    "title": "U3 Meeting",
+    "section": "",
+    "text": "Meeting 3: Sept 22, 2026, 4:30pm – 5:30pm CEST\nPlease find the information on how to join the zoom meeting in the corresponding e-mail.",
+    "crumbs": [
+      "Unit 3",
+      "U3 Meeting"
     ]
   },
   {

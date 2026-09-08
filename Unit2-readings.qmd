@@ -4,3 +4,8 @@ We recommend reading the following papers on the topics covered:
 
 - [The “Problem” of Human Label Variation: On Ground Truth in Data, Modeling and Evaluation](https://aclanthology.org/2025.nlperspectives-1.7.pdf)
 - [Revisiting Active Learning under (Human) Label Variation](https://aclanthology.org/2025.nlperspectives-1.7.pdf)
+
+Further readings on Calibration: 
+
+- [Calibration Techniques and it's Importance in Machine Learning](https://kingsubham27.medium.com/calibration-techniques-and-its-importance-in-machine-learning-71bec997b661)
+- [Probability calibration](https://scikit-learn.org/stable/modules/calibration.html)
